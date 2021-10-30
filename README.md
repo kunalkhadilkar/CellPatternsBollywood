@@ -20,6 +20,8 @@ https://www.kdnuggets.com/2020/08/word-embedding-fairness-evaluation.html
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/reports/6835575.pdf
 
 
+Data Files: https://drive.google.com/drive/folders/1Voie8VPFdqXAvCl-3s5qSBinpYXXBjSj?usp=sharing
+
 For any questions or clarifications, please contact: 
 Ashique Khudabukhsh - akhudabu@andrew.cmu.edu
 Kunal Khadilkar - kkhadilk@andrew.cmu.edu or kunalkhadilkar@gmail.com 
